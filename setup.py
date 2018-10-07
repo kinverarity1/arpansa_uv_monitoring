@@ -4,7 +4,7 @@ from setuptools import setup
 
 setup(
     name='ozburn',
-    version='0.0',
+    version='0.1',
     description='ARPANSA UV index monitoring vs modelled data ',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
