@@ -1,2 +1,3 @@
-# arpansa_uv_monitoring
-ARPANSA UV index monitoring vs modelled data
+# ozburn
+
+Get UV index data (modelled and measured) from ARPANSA, using Python.
